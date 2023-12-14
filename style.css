@@ -38,7 +38,9 @@ p {
 
 #FEF900,#02035D,#0043FE,#FF0185
 
-
+a {
+    font-family: 'Montserrat Classic', monospace;
+}
 
 .column2 {
     float:left;
